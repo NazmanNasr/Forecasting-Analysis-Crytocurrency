@@ -8,6 +8,4 @@ Final year project for my degree to analyse and predict future price of cryptocu
 - Bitcoin
 - Dash
 
-**CLick here to view my project paperwork:**
-
-**CLick here to view R coding:**
+**CLick here to view R coding:** 
